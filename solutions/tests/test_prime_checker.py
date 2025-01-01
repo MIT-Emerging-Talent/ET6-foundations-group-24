@@ -52,7 +52,8 @@ class TestPrimeChecker(unittest.TestCase):
     def test_number_nine(self):
         """It should return False"""
         self.assertEqual(prime_checker(9), False)
-# Edge cases
+
+    # Edge cases
     def test_zero(self):
         """It should return False"""
         self.assertEqual(prime_checker(0), False)
@@ -72,29 +73,32 @@ class TestPrimeChecker(unittest.TestCase):
     def test_two_digits(self):
         """It should return True or False based on the given number"""
         self.assertEqual(prime_checker(23), True)
-        
+
     def test_whole_floats(self):
         """It should return True"""
         self.assertEqual(prime_checker(7.0), True)
-            
-# Defensive tests
+
+    # Defensive tests
     def test_no_input(self):
         """It should raise AssertionError for No input"""
         with self.assertRaises(ValueError):
             prime_checker(None)
-    
+
     def test_negatives(self):
         """It should raise AssertionError for Negatives"""
         with self.assertRaises(ValueError):
             prime_checker(-1)
+
     def test_string(self):
         """It should raise AssertionError for String values"""
         with self.assertRaises(TypeError):
             prime_checker("hello")
+
     def test_fractional_floats(self):
         """It should raise AssertionError for fractional Float"""
         with self.assertRaises(AssertionError):
             prime_checker(5.56)
+
 
 if __name__ == "__main__":
     unittest.main()
