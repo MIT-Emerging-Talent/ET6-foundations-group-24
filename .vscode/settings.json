@@ -1,87 +1,87 @@
 {
-    // https://vscode-docs.readthedocs.io/en/stable/customization/userandworkspace/#default-settings
-    //-------- Editor configuration --------
-  
-    "files.autoSave": "onFocusChange",
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
-    "editor.guides.indentation": true,
-    "editor.guides.highlightActiveIndentation": true,
-    "editor.tabSize": 2,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs": "active",
-    "editor.guides.bracketPairsHorizontal": "active",
-    "editor.guides.highlightActiveBracketPair": true,
-    "editor.linkedEditing": true,
+  // https://vscode-docs.readthedocs.io/en/stable/customization/userandworkspace/#default-settings
+  //-------- Editor configuration --------
 
-    //-------- HTML configuration --------
-    "html.autoClosingTags": true,
-    "html.suggest.html5": true,
-    "[html]": {
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.guides.indentation": true,
+  "editor.guides.highlightActiveIndentation": true,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.bracketPairsHorizontal": "active",
+  "editor.guides.highlightActiveBracketPair": true,
+  "editor.linkedEditing": true,
+
+  //-------- HTML configuration --------
+  "html.autoClosingTags": true,
+  "html.suggest.html5": true,
+  "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
-    },
+  },
 
-    //-------- Emmet configuration --------
-    "html-css-class-completion.enableEmmetSupport": true,
+  //-------- Emmet configuration --------
+  "html-css-class-completion.enableEmmetSupport": true,
 
-    //-------- JavaScript configuration --------
-    "javascript.autoClosingTags": true,
-    "javascript.suggest.autoImports": true,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "javascript.suggest.paths": false,
+  //-------- JavaScript configuration --------
+  "javascript.autoClosingTags": true,
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.suggest.paths": false,
 
-    //-------- TypeScript configuration --------
-    "typescript.autoClosingTags": true,
-    "typescript.suggest.autoImports": true,
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "typescript.suggest.paths": false,
+  //-------- TypeScript configuration --------
+  "typescript.autoClosingTags": true,
+  "typescript.suggest.autoImports": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.paths": false,
 
-    //-------- Work Bench configuration --------
-    "workbench.editor.highlightModifiedTabs": true,
+  //-------- Work Bench configuration --------
+  "workbench.editor.highlightModifiedTabs": true,
 
-    //-------- Files configuration --------
-    "files.trimFinalNewlines": true,
-    "files.insertFinalNewline": true,
+  //-------- Files configuration --------
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
 
-    //-------- Live Server configuration --------
-    "liveServer.settings.port": 5504,
+  //-------- Live Server configuration --------
+  "liveServer.settings.port": 5504,
 
-    //-------- Markdown configuration --------
-    "markdown.suggest.paths.enabled": true,
-    "[markdown]": {
+  //-------- Markdown configuration --------
+  "markdown.suggest.paths.enabled": true,
+  "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
-    },
-    "markdown.extension.toc.updateOnSave": false,
+  },
+  "markdown.extension.toc.updateOnSave": false,
 
-    "cSpell.words": [
-        "Banchiamlak",
-        "Elnageeb",
-        "Khayri",
-        "Khusro",
-        "Linah",
-        "Mengsteab",
-        "Mesfin",
-        "Robel",
-        "Sakhi",
-        "Teka",
-        "Viktoriya",
-        "Yifat",
-        "Yishkl",
-        "Yonatan",
-        "Zeinab"
-    ],
+  "cSpell.words": [
+    "Banchiamlak",
+    "Elnageeb",
+    "Khayri",
+    "Khusro",
+    "Linah",
+    "Mengsteab",
+    "Mesfin",
+    "Robel",
+    "Sakhi",
+    "Teka",
+    "Viktoriya",
+    "Yifat",
+    "Yishkl",
+    "Yonatan",
+    "Zeinab"
+  ],
 
-    "[python]": {
-        "editor.defaultFormatter": "charliermarsh.ruff",
-        "editor.formatOnSave": true,
-        "editor.codeActionsOnSave": {
-        "source.fixAll.ruff": "explicit",
-        "source.organizeImports.ruff": "explicit"
-        }
-    },
-    "cSpell.words": [
-        "Khayri",
-        "Linah"
-    ]
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.ruff": "explicit",
+      "source.organizeImports.ruff": "explicit"
+    }
+  },
+  "cSpell.words": [
+    "Khayri",
+    "Linah"
+  ]
 }
