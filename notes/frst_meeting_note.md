@@ -92,11 +92,11 @@ For each item, write a short explanation covering:
 - [X] Git
 - [X] GitHub
 - [X] GitHub Repository
-- [O] GitHub Issues
-- [O] Project Boards
+- [X] GitHub Issues
+- [X] Project Boards
 - [X] Pull Requests
 - [ ] Continuous Integration (CI)
-- [O] Code Review
+- [X] Code Review
 
 ---
 
