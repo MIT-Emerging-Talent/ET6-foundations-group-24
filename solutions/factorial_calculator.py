@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Module Name: factorial_calculator
+
 Description: This module provides a function to calculate the factorial of a given number.
-It uses a recursive approach to compute the factorial.
 
 The module includes: the following function:
     - factorial_calculator(num): Returns the factorial of the input number num.
@@ -15,7 +15,7 @@ Date Created: 29-12-2024
 
 def factorial_calculator(num: int | float) -> int:
     """
-    This function calculates the factorial of a non-negative integer or whole float using recursion.
+    This function calculates the factorial of a non-negative integer or whole float.
 
     The factorial of a non-negative integer n is the product of all positive integers
     less than or equal to num until we reach one.
@@ -64,6 +64,6 @@ def factorial_calculator(num: int | float) -> int:
     if num == 1:  # Base case 2
         return 1  # turn-around 2
 
-    # Recursive case: factorial(num) = num * factorial(num-1)
+    # Recursive case: factorial_calculator(num) = num * factorial_calculator(num-1)
     # breaking-down num | Build-up by multiplying
     return num * factorial_calculator(num - 1)
