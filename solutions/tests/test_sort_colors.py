@@ -21,9 +21,11 @@ Test cases:
   - test_randomly_generated_list: Tests with a randomly generated list.
 
 - Exception test cases:
-  - test_not_a_list: Ensures an AssertionError is raised for non-list inputs.
-  - test_invalid_elements: Ensures an AssertionError is raised for invalid
-    elements (e.g., elements not in the range [0, 2]).
+  - test_not_a_list: Ensures a TypeError is raised for non-list inputs.
+  - test_invalid_elements_type: Ensures a TypeError is raised for invalid
+    element types (e.g., non-integer elements).
+  - test_invalid_elements_range: Ensures an AssertionError is raised for invalid
+    elements (e.g., integers not in the range [0, 2]).
 
 Created on 26 10 2024
 
@@ -77,13 +79,19 @@ class TestSortColors(unittest.TestCase):
         self.assertEqual(nums, expected)
 
     def test_not_a_list(self):
-        """It should raise an assertion error if the input is not a list"""
-        with self.assertRaises(AssertionError):
+        """It should raise a TypeError if the input is not a list"""
+        with self.assertRaises(TypeError):
             sort_colors("not a list")
 
-    def test_invalid_elements(self):
-        """It should raise an assertion error for invalid elements"""
-        nums = [0, 1, 3]  # Invalid element 3
+    def test_invalid_elements_type(self):
+        """It should raise a TypeError for invalid element types"""
+        nums = [0, 1, "2"]  # Invalid element "2" (string)
+        with self.assertRaises(TypeError):
+            sort_colors(nums)
+
+    def test_invalid_elements_range(self):
+        """It should raise an AssertionError for elements out of range"""
+        nums = [0, 1, 3]  # Invalid element 3 (out of range)
         with self.assertRaises(AssertionError):
             sort_colors(nums)
 

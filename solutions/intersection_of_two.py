@@ -23,10 +23,6 @@ def intersection_of_two(first_list: list, second_list: list) -> list:
     can contain any type of items that are allowed in a list (e.g., integers,
     strings, floats, special characters, etc.)
 
-    Note:
-        This function could be simplified using built-in functions like set(),
-        which automatically handle duplicates and set intersections.
-        However, I wanted to write the logic manually to demonstrate how it works step-by-step
 
     Parameters:
         first_list (list): The first list of items
