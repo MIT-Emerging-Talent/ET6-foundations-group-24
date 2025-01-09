@@ -52,6 +52,6 @@ The tests are designed to:
 If you encounter any issues with the tests or have suggestions for improvement, feel free to contact the team members or test maintainers.
 
 <!-- 
-The HTML <img> tag is used to control the image's width (900px), ensuring a consistent appearance.
+The HTML <img> tag is used to control the image's width (800px), ensuring a consistent appearance.
 -->
-<img src="https://img1.picmix.com/output/stamp/normal/1/7/6/9/2289671_302fc.gif" alt="sparks" width="900"/>
+<img src="https://img1.picmix.com/output/stamp/normal/1/7/6/9/2289671_302fc.gif" alt="sparks" width="800" height="100"/>
