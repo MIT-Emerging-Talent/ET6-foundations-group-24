@@ -35,4 +35,7 @@ To keep our codebase clean and efficient, follow these best practices:
 
 If you have any questions or suggestions regarding the solutions, feel free to reach out to the team members. We’re all in this together! 🤝
 
-![Descriptive Text](https://img1.picmix.com/output/stamp/normal/1/7/6/9/2289671_302fc.gif)
+<!-- 
+The HTML <img> tag is used to control the image's width (900px), ensuring a consistent appearance.
+-->
+<img src="https://img1.picmix.com/output/stamp/normal/1/7/6/9/2289671_302fc.gif" alt="sparks" width="900"/>
