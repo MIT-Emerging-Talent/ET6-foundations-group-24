@@ -41,7 +41,7 @@ Together, we dive into coding and testing challenges, sharpening our problem-sol
 Our squad is made up of some seriously talented people who bring the 🔥 to this project. Check out the crew making it all come to life:
 
 - [**Abel Mesfin Teka**](https://github.com/TekaMesfinAbel)
-- [**Banchiamlak**](https://github.com/BanchiHub)
+- [**Banchiamlak Tessema**](https://github.com/BanchiHub)
 - [**Gai Samuel**](https://github.com/GaiSamuel)
 - [**Khusro Sakhi**](https://github.com/Khusro-S)
 - [**Linah Khayri**](https://github.com/linahKhayri)
