@@ -3,7 +3,7 @@
 </div>
 <!-- MD03/no-inline-html: Inline HTML is used intentionally to center the image for better visual alignment. -->
 
-# Welcome to our **Available** Squad <img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-694.gif" width="60" height="60" alt="clock">
+# Welcome to our **Available** Squad <img src="https://cdn.pixabay.com/animation/2023/05/12/07/29/07-29-43-548_512.gif" width="60" height="60" alt="clock">
 
 <!-- MD03/no-inline-html: Inline HTML is used intentionally to resize the gif for better visual alignment. -->
 
