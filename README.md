@@ -3,7 +3,7 @@
 </div>
 <!-- MD03/no-inline-html: Inline HTML is used intentionally to center the image for better visual alignment. -->
 
-# Welcome to our **Available** Squad  ![Description](https://s1.ezgif.com/tmp/ezgif-1-1e768e2a38.gif)
+# Welcome to our **Available** Squad![Description](https://s1.ezgif.com/tmp/ezgif-1-1e768e2a38.gif)
 
 
 Together, we dive into coding and testing challenges, sharpening our problem-solving and collaboration skills as a united team. Our mission is to work in harmony, review each others solutions, and grow through shared learning and constructive feedback. We believe that exceptional solutions stem from exceptional teamwork. That's why we are dedicated to building and supporting each other every step of the way. Let's make amazing things happen, together! ⭐
