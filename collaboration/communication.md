@@ -2,11 +2,11 @@
 
 ## Communication Schedule
 
-| Day        | How              | The topic of discussion            |
-|------------|------------------|------------------------------------|
-| Monday     | Slack/Discord    | Weekly standup and task planning  |
-| Wednesday  | GitHub Issues    | Status updates and issue tracking |
-| Friday     | Pull Requests    | Code review and merging changes   |
+| Day        | Platform         | Topic of Discussion                               |
+|------------|------------------|---------------------------------------------------|
+| Sunday     | Video Call       | Plan for the week and discuss progress            |
+| Monday     | Slack/Discord    | Weekly standup, task allocation, and updates      |
+| Wednesday  | GitHub Issues    | Update on tasks, track issues, and group discussions|
 
 ______________________________________________________________________
 
@@ -76,55 +76,96 @@ ask for help based on how long you've been stuck on the same problem:
 1. **0 -> 30 min**: Try on your own.  
 2. **30 -> 60 min**: Ask your group for help.  
 3. **60+ min**: Tag your coaches in Slack or GitHub.
+  
+## Meeting Agendas
 
-## Weekly Task Schedule
+  We have scheduled three key meetings to organize tasks, evaluate progress,
+  and ensure active involvement from all team members. These meetings will focus
+  on collaboration, task distribution, and reflecting on our work for continuous
+  improvement.
 
-## **First Week**
+## Meeting 1
+
+**Date:** Sunday, 22nd December  
+**Platform:** Google Meet
+
+**Agenda:**  
+
+- Discuss collaboration files and how to work on them effectively.
+
+**Meeting Outcomes:**  
+
+- The team will be divided into small groups. Each group is responsible for
+   preparing one file and reviewing another group's work, as outlined below:  
 
 ### **Group 1**  
 
-  **Members**: Abel Teka, Banchiamlak Tessema  
-  **Task**: To prepare and submit Group Norms and conduct a review on Group 5.
+- **Members:** Abel Teka, Banchiamlak Tessema  
+- **Task:** Prepare and submit Group Norms, and review Group 5's work.  
 
 ### **Group 2**  
 
-  **Members**: Robel Mengsteab, Zeinab Mohammed  
-  **Task**: To prepare and submit Communication and Conduct a code review for
-   Group 4’s tasks and provide feedback.
+- **Members:** Robel Mengsteab, Zeinab Mohammed  
+- **Task:** Prepare and submit Communication, and review Group 4's work.  
 
 ### **Group 3**  
 
-  **Members**: Linah Khyari, Khusro Sakhi  
-  **Task**: Prepare and submit Constraints and Refine group communication
-   practices based on feedback.
+- **Members:** Linah Khyari, Khusro Sakhi  
+- **Task:** Prepare and submit Constraints, and refine group communication practices based on feedback.  
 
 ### **Group 4**  
 
-  **Members**: Viktoriya Haiduk, Mohamed Elnageeb  
-  **Task**:Prepare and submit Learning goals and Conduct a code review plus a
-  feedback.
+- **Members:** Viktoriya Haiduk, Mohamed Elnageeb  
+- **Task:** Prepare and submit Learning Goals, and conduct a code review with feedback.  
 
 ### **Group 5**  
 
-  **Members**: Gai Samuel, Yonatan Yishak  
-  **Task**: Lead the retrospective meeting and document key outcomes and Conduct
-   a code review on Group 1 .
+- **Members:** Gai Samuel, Yonatan Yishak  
+- **Task:** Lead the retrospective meeting, document key outcomes, and review Group 1's work.  
 
-## Review Responsibilities
+**Deadline:** Thursday, 26th December
 
-Each group will review the work of another group according to the following schedule:
+## Meeting 2
 
-1. **Group 1** (Abel Teka, Banchiamlak Tessema): Reviews work from **Group 5**
-    (Gai Samuel, Yonatan Yishak).
+**Date:** Sunday, 29th December 2024  
+**Platform:** Google Meet  
 
-2. **Group 2** (Robel Mengsteab, Zeinab Mohammed): Reviews work from **Group 4**
-   (Viktoriya Haiduk, Mohamed Elnageeb).
+**Agenda:**  
 
-3. **Group 3** (Linah Khyari, Khusro Sakhi): Reviews work from 4. **Group 2**
-    (Robel Mengsteab, Zeinab Mohammed)
+- Discuss progress and challenges in working on collaboration files.  
+- Discuss next steps: each member will select two challenges to work on and review other members' work.  
+- Conduct a table review of tasks.
 
-4. **Group 4** (Viktoriya Haiduk, Mohamed Elnageeb): Reviews work from **Group 3**
-   (Linah Khyari, Khusro Sakhi)
+**Meeting Outcomes:**
 
-5. **Group 5** (Gai Samuel, Yonatan Yishak): Reviews work from **Group 1**
- (Abel Teka, Banchiamlak Tessema)
+- Each member will work on two challenges and review the challenges of two other members, as outlined in the table below:
+
+| **Challenge Creator**   | **Reviewer 1**       | **Reviewer 2**       |  
+|--------------------------|----------------------|----------------------|  
+| Abel Mesfin Teka         | Viktoriya Haiduk     | Gai Samuel           |  
+| Gai Samuel               | Mohamed Elnageeb     | Abel Mesfin Teka     |  
+| Linah Khyari             | Viktoriya Haiduk     | Robel Mengsteab      |  
+| Khusro Sakhi             | Zeinab Mohammed      | Yonatan Yishak       |  
+| Mohamed Elnageeb         | Khusro Sakhi         | Gai Samuel           |  
+| Robel Mengsteab          | Linah Khyari         | Khusro Sakhi         |  
+| Viktoriya Haiduk         | Mohamed Elnageeb     | Yonatan Yishak       |  
+| Yonatan Yishak           | Zeinab Mohammed      | Abel Mesfin Teka     |  
+| Zeinab Mohammed          | Linah Khyari         | Robel Mengsteab      |  
+
+**Deadline:** Tuesday, 8th January
+
+## Meeting 3  
+
+**Date:** Tuesday, 8th January 2025  
+**Platform:** Google Meet  
+**Agenda:**  
+
+- Review progress based on the initial planning.  
+- Discuss the Retrospective file and finalize the group name.  
+
+**Meeting Outcomes:**  
+
+- Collaborative discussion on GitHub for the retrospective file.  
+- A poll on Slack to choose the final group name.
+
+**Deadline:** Thursday, 10th January
