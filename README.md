@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoiR3JvdXAlMjAyNCIsImlhdCI6MTczNTIwMzkwMX0.6dBXa0DW7iOQGETxKrxHG39dDYceUY57aFiex_UZ6LM" alt="Demo GIF">
+  <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoiMjQlMkY3JTIwU3F1YWQiLCJpYXQiOjE3MzY1MDc1OTh9.nk4z4PVuUzebqEQeOFo6k7F3JSiU2miRsl8qjt_iXvI" alt="Demo GIF">
 </div>
 <!-- MD03/no-inline-html: Inline HTML is used intentionally to center the image for better visual alignment. -->
 
-# This Project is All About Teamwork! 🤝
+# Welcome to our **Available** Squad  ![Description](https://s1.ezgif.com/tmp/ezgif-1-1e768e2a38.gif)
+
 
 Together, we dive into coding and testing challenges, sharpening our problem-solving and collaboration skills as a united team. Our mission is to work in harmony, review each others solutions, and grow through shared learning and constructive feedback. We believe that exceptional solutions stem from exceptional teamwork. That's why we are dedicated to building and supporting each other every step of the way. Let's make amazing things happen, together! ⭐
 
@@ -47,11 +48,11 @@ Our squad is made up of some seriously talented people who bring the 🔥 to thi
 - [**Mohamed Elnageeb**](https://github.com/Mohamed-Elnageeb)
 - [**Robel Mengsteab**](https://github.com/robiel0143)
 - [**Viktoriya Haiduk**](https://github.com/ViktoriyaHaiduk)
-- [**Yonatan Yishkl Yifat**](https://github.com/YonatanBest)
+- [**Yonatan Yishak Yifat**](https://github.com/YonatanBest)
 - [**Zeinab Mohammed**](https://github.com/Zeinab15)
 
 ### 💥 Here We Go
 
-With the team all set, we are ready to make some magic happen. Stay with us for the ride, things are about to get awesome! 💪
+With the Squad all set, we are ready to make some magic happen. Stay with us for the ride, things are about to get awesome! 💪
 
 ![Demo GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBrZHhqdG9tNG9sNDd2c2YwdThvaW5qc3d2OHB1ZHJmajN4Z2hweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xHhy12MVG2fkVW/giphy.webp)
