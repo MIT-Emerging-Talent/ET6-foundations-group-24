@@ -58,32 +58,32 @@ to foster a collaborative environment.___
 
 ### What parts of your plan went as expected? 👍
 
-1. __Improved understanding of code-reviewing principles__; _Throughout this pro
-ject, we gained a deeper understanding of the importance of code-reviewing an
-   d how to apply best practices._
-2. __Effective collaboration__; _Group members worked well together, providing c
-onstructive feedback and supporting each other in the learning process which
-    allowed us to refine our approach and improve both our coding practices and c
-ommunication. This made the code review process not only more effective but a
-   lso more rewarding, as we could see visible improvements over time._
-3. __Keeping deadlines on track and the delivery of work as expected.__
+   1. __Improved understanding of code-reviewing principles__; _Throughout this
+   project, we gained a deeper understanding of the importance of code-reviewing
+    and how to apply best practices._
+   2. __Effective collaboration__; _Group members worked well together, providing
+   constructive feedback and supporting each other in the learning process which
+    allowed us to refine our approach and improve both our coding practices and
+   communication. This made the code review process not only more effective but
+   also more rewarding, as we could see visible improvements over time._
+   3. __Keeping deadlines on track and the delivery of work as expected.__
 
 ### What parts of your plan did not work out? 👎
 
-   1. __Initial struggle with code review tools__; _We faced some challenges get
-ting familiar with the code review tools, but eventually got the hang of it._
-   2. __We weren't quite able to fully help each other out as a colleague of our
-s decided not to continue with the program.__
+   1. __Initial struggle with code review tools__; _We faced some challenges
+   getting familiar with the code review tools, but eventually got the hang of it._
+   2. __We weren't quite able to fully help each other out as a colleague of
+   ours decided not to continue with the program.__
 
 ### Did you need to add things that weren’t in your strategy? 🤔
 
    1. __Dedicated Learning Time for Tools__; _Some team members needed more time
- to learn and practice using tools like GitHub and setting up the environment
-. While we helped each other whenever needed during our meetings, it would h
-ave saved time if we had set aside time specifically for learning the tools.
- This could have been done either together in a session at the beginning or
-by giving everyone extra time upfront to get familiar with the tools. Exte
-nding the deadlines a bit would also have helped everyone feel more comforta
-ble and avoided early delays._
+   to learn and practice using tools like GitHub and setting up the environment
+   . While we helped each other whenever needed during our meetings, it would
+   have saved time if we had set aside time specifically for learning the tools.
+   This could have been done either together in a session at the beginning or
+   by giving everyone extra time upfront to get familiar with the tools.
+   Extending the deadlines a bit would also have helped everyone feel more
+   comfortable and avoided early delays._
 
 ### Or remove extra steps? 🚮
