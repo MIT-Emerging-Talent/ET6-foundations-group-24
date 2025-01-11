@@ -78,8 +78,8 @@ to foster a collaborative environment.___
 ### Did you need to add things that weren’t in your strategy? 🤔
 
    1. __Dedicated Learning Time for Tools__; _Some team members needed more time
-   to learn and practice using tools like GitHub and setting up the environment
-   . While we helped each other whenever needed during our meetings, it would
+   to learn and practice using tools like GitHub and setting up the environment.
+   While we helped each other whenever needed during our meetings, it would
    have saved time if we had set aside time specifically for learning the tools.
    This could have been done either together in a session at the beginning or
    by giving everyone extra time upfront to get familiar with the tools.
